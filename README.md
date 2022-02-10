@@ -46,6 +46,7 @@ The goal of this assessment is to test knowledge of json data structures and  pr
     
   </ol>
   <li>Structure the functions/class however you like, but be prepared to defend your design decisions</li>
+  <li>I will test your functions against other order.json</li>
   <li>Feel free to write tests</li>
   <li>Send over the link to your Github repo with your solutions. Please give instructions on how to run your functions. You can also email a zip file with instructions.</li>
   <li>We will go over the design of your functions in the interview</li>
