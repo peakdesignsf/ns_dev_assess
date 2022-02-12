@@ -6,7 +6,7 @@ The goal of this assessment is to test knowledge of json data structures and  pr
   <li>Please clone the repo or download the files inside the repo</li>
   <li>In the language of your choice, preferably in Javascript, please open or copy and paste the JSON object in the file `order.json`. Please create functions or classes that meet the following criteria: </li>
   <ol>
-    <li>It takes in the `order.json` object and returns a related Item Fulfillment object. It should return all the relevant line_items within the line_items array. The `order.json` file should have all of the information that you need.</li>
+    <li>It takes in the `order.json` object and returns a related Item Fulfillment (IF) object. It should return all the relevant line_items within the line_items array. The `order.json` file should have all of the information that you need.</li>
     <li>The number of line items should be equal to the length of the line_items array in order.json</li>
     <li>Here's an example of what the IF object and keys should look like the following example (will not look entirely like this):</li>
      
